@@ -1,0 +1,20 @@
+{
+  "name": "Web-Personal-learning",
+  "version": "1.0.0",
+  "description": "---- ##### 学习列表 1. 学习2到3个流行js库的源码(loadsh)，熟悉函数式编程与命令式编程，最终完成自己的一个实用工具库。 2. 学习1到2个流行组件库源码，知道如何写优美高效的组件，加强对预处理器使用，最终完成自己的一个小组件库。 3. 学习webpack,bebel的源码，并理解原理，能写插件。 4. 学习vue全家桶源码，熟悉原理，学以致用。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xt-guiyi/Web-Personal-learning.git"
+  },
+  "keywords": [],
+  "author": "xt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xt-guiyi/Web-Personal-learning/issues"
+  },
+  "homepage": "https://github.com/xt-guiyi/Web-Personal-learning#readme"
+}
